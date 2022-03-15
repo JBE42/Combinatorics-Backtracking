@@ -17,4 +17,4 @@ For the PCA Course that I held on 16'th of March 2022
 
 > [Combinatorics in computer science (medium level)](https://iordachebogdan.github.io/cppi/combinatorica_nivel_mediu.html)  
 
-> [Combinatorics in computer science (advanced level)](https://iordachebogdan.github.io/cppi/combinatorica_nivel_mediu.html)
+> [Combinatorics in computer science (advanced level)](https://iordachebogdan.github.io/cppi/combinatorica_nivel_avansat.html)
